@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2B
 - Tài khoản GitHub: kminhphu
 - Repo bài nộp (URL): https://github.com/kminhphu/K5-L23-DAY08-2A202603337-KhuuMinhPhu-AIPrelabel
-- Commit chốt bài (hash): 
+- Commit chốt bài (hash): 30e927e
 - Máy: hệ điều hành: Windows 11, GPU (CUDA / MPS / không có): không có
 - CVAT (Docker): phiên bản 2.74.1
 
